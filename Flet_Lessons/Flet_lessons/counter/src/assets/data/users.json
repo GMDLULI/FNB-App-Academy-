@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "name": "Thabo Mokoena",
+      "username": "thabom",
+      "password": "silly7"
+    },
+    {
+      "id": "user_002",
+      "name": "Naledi Dhlamini",
+      "username": "Pepermint234"
+    },
+    {
+      "id": "user_003",
+      "name": "Sipho Nkosi",
+      "username": "siphon",
+      "password": "Bubblegum879"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Leo",
+        "species": "Lion",
+        "age": 5,
+        "diet": "Carnivore",
+        "enclosure": "Savannah Habitat"
+    },
+    {
+        "name": "Ella",
+        "species": "Elephant",
+        "age": 10,
+        "diet": "Herbivore",
+        "enclosure": "Grassland Habitat"
+    }
+]
